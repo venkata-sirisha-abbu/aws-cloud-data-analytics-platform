@@ -17,6 +17,15 @@ to convert raw data into business insights for non-technical users.
 
 S3 → Lambda → OpenAI → S3 Output → Power BI
 
+## Skills Demonstrated
+
+• AWS Lambda  
+• Amazon S3  
+• Serverless Architecture  
+• Python Data Processing  
+• Cloud Data Pipelines  
+• Data Visualization using Power BI  
+
 ## Technologies Used
 
 - AWS S3
