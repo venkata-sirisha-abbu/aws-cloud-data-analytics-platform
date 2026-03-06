@@ -32,6 +32,19 @@ S3 → Lambda → OpenAI → S3 Output → Power BI
 
 ![Architecture](docs/architecture-diagram.png)
 
+## Lambda Trigger
+![Lambda](docs/lanbdatrigger.png)
+
+## API call
+![API](docs/apicalls.png)
+
+## PowerBI Dashboards
+![PowerBI Dashboards](docs/powerbi1.png)
+![PowerBI Dashboards](docs/powerbi2.png)
+
+## Cloudwatch Logs
+
+![Logs](docs/cloudwatchlogs.png)
 ## Results
 
 Example generated insights:
