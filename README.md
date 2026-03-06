@@ -33,7 +33,7 @@ S3 → Lambda → OpenAI → S3 Output → Power BI
 ![Architecture](docs/architecture-diagram.png)
 
 ## Lambda Trigger
-![Lambda](docs/lanbdatrigger.png)
+![Lambda Trigger](docs/lambdatrigger.png)
 
 ## API call
 ![API](docs/apicalls.png)
