@@ -30,7 +30,7 @@ S3 → Lambda → OpenAI → S3 Output → Power BI
 
 ## Architecture Diagram
 
-(Insert architecture image here)
+![Architecture](docs/architecture-diagram.png)
 
 ## Results
 
