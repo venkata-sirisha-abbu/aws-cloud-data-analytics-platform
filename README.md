@@ -81,3 +81,17 @@ Example generated insights:
 - Automated Power BI API integration
 - Better prompt engineering
 - Real-time analytics pipeline
+## Repository Structure
+
+aws-cloud-data-analytics-platform
+│
+├── lambda/
+│   └── lambda_function.py
+│
+├── sample-data/
+│   └── dataset.csv
+│
+├── screenshots/
+│   └── architecture.png
+│
+└── README.md
