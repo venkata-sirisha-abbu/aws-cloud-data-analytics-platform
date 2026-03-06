@@ -1,3 +1,10 @@
+## Project Overview
+
+This project demonstrates a cloud-native data analytics pipeline built using AWS services.
+
+The system automatically processes uploaded datasets using AWS Lambda and stores the processed results in Amazon S3. The processed data can then be visualized through Power BI dashboards.
+
+This project demonstrates how serverless architectures can be used to build scalable and automated data processing pipelines.
 # Cloud-Native AI Powered Data Assistant with Power BI
 
 This project implements a cloud-native AI-powered data assistant that
